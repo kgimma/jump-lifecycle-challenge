@@ -1,0 +1,17 @@
+customer_segment,retention_status,avg_active_user_rate,avg_meetings,avg_ai_chats,avg_days_with_meetings,avg_days_with_notes_synced,avg_days_with_tasks,avg_total_activity,accounts
+Large,churned,0.91,65.03,0.73,49.49,15.51,23.32,1232.38,14
+Large,contracted,0.71,8.3,0.14,6.8,2.43,2.91,181.57,15
+Large,retained_active,0.84,21.73,0.39,15.61,4.61,7.08,469.34,29
+Large,retained_inactive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+Medium,churned,0.68,6.13,0.07,5.1,1.77,2.3,125.67,101
+Medium,contracted,0.71,9.47,0.22,7.97,2.3,3.57,186.31,129
+Medium,retained_active,0.78,3.76,0.05,2.94,1.01,1.27,89.57,143
+Medium,retained_inactive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+Small,churned,0.54,1.15,0.02,1.01,0.31,0.48,23.02,380
+Small,contracted,0.46,1.25,0.02,1.1,0.39,0.49,22.93,474
+Small,retained_active,0.7,0.85,0.0,0.72,0.2,0.31,18.54,502
+Small,retained_inactive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,204
+Unknown,churned,0.11,0.0,0.0,0.0,0.0,0.0,1.33,4
+Unknown,contracted,0.11,0.06,0.0,0.06,0.0,0.06,0.94,4
+Unknown,retained_active,0.86,0.27,0.0,0.27,0.0,0.09,5.0,8
+Unknown,retained_inactive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
