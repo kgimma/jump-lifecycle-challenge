@@ -1,4 +1,6 @@
-import duckdb
+# NOTE: See final.py for notes on the answers to these. It's also writt
+
+
 import re
 
 conn = duckdb.connect()
